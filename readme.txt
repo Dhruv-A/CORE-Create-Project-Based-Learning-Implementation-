@@ -1,0 +1,1 @@
+This is just a teaching resource for my new program designed to get budding programmers into larger projects and to equip them with transferable skills in order to expose them to different implementations and applications of programming and creative-thinking!
